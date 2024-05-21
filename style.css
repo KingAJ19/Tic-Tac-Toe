@@ -80,14 +80,14 @@ p {
     box-sizing: border-box; 
     width: 95px; 
     height: 40px; 
-    border: 1px solid dodgerblue; 
+    border: 1px solid rgb(48, 88, 128); 
     margin-left: auto; 
     border-radius: 8px; 
     font-family: Verdana, 
         Geneva, Tahoma, sans-serif; 
   
     background-color: whitesmoke; 
-    color: dodgerblue; 
+    color: rgb(48, 88, 128); 
     font-size: 20px; 
     cursor: pointer; 
 } 
@@ -96,7 +96,7 @@ p {
 #print { 
     font-family: Verdana, 
         Geneva, Tahoma, sans-serif; 
-    color: dodgerblue; 
+    color: rgb(48, 88, 128); 
     font-size: 20px; 
 } 
   
@@ -109,5 +109,5 @@ p {
 #ins { 
     font-family: Verdana,Geneva,  
                     Tahoma, sans-serif; 
-    color: dodgerblue; 
+    color: rgb(48, 88, 128); 
 }
